@@ -1,0 +1,16 @@
+= tool collection
+
+
+Cute: Gear for File amd Folder processing in Python 
+
+== Glossary
+
+cute :: a project for modern and lightweight software development (maybe growing into a framework)
+
+gear :: a small module in the bigger framework 
+
+file :: a file system object. here standing for every item in a file system (files, folders and links)
+
+== Goal
+
+a modern Python module based directly on standard library.  the pathlib module is preferred. above the older os functions
