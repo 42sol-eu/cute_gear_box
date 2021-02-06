@@ -1,0 +1,12 @@
+[submodule "u_nanite"]
+	path = u_nanite
+	url = https://42sol-eu@github.com/42sol-eu/u_nanite.git
+[submodule "gears/filterCSV"]
+	path = gears/filterCSV
+	url = https://github.com/42sol-eu/filterCSV.git
+[submodule "gears/md2pptx"]
+	path = gears/md2pptx
+	url = https://github.com/42sol.eu/md2pptx.git
+[submodule "gears/mdpre"]
+	path = gears/mdpre
+	url = https://github.com/42sol-eu/mdpre.git
