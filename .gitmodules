@@ -7,3 +7,6 @@
 [submodule "gears/mdpre"]
 	path = gears/mdpre
 	url = https://github.com/42sol-eu/mdpre.git
+[submodule "gears/md2pptx"]
+	path = gears/md2pptx
+	url = https://github.com/42sol-eu/md2pptx
